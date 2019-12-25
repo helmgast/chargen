@@ -1,0 +1,5 @@
+[#styrka=+2]
+[#klättra=+2]
+[#slagsmål=+2]
+[3T6x1000s]
+[#expertis=16]

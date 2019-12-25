@@ -1,0 +1,16 @@
+{
+  "name": "chargen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose --serial __tests__/eon.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^2.4.0",
+    "prettyoutput": "^1.2.0"
+  }
+}
