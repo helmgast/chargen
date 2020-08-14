@@ -1,10 +1,10 @@
 # Chargen
 
-Chargen, or Character Generator, is a framerowk from Helmgast to easily create, generate and store role-playing characters. This repository contains the frontend side of the application which also is the main part. The server part is contained in the [Lore](https://github.com/helmgast/lore) application.
+Chargen, or Character Generator, is a framework from Helmgast to easily create, generate, edit and store role-playing characters. This repository contains the frontend side of the application which also is the main part. The server part is contained in the [Lore](https://github.com/helmgast/lore) application.
 
 ## Goal
 
-The overall goal is a web app that let's game creators easily define the content, rules and visual forms necessary to create characters in their particular game. We have built several custom character generators and found that it's both a large undertaking and a lot of repetitive work. Even though game rules can differ greatly, we feel there is a lot of commonality that can be addressed by this framework. It's intended for web based frontends that work on both desktop and mobile, but major parts of it would be applicable also to e.g. native mobile apps.
+The overall goal is a web app that let's game creators easily define the content, rules and visual forms necessary to create characters in their particular game. We have built several custom character generators and found that it's both a large undertaking and a lot of repetitive work. Even though game rules can differ greatly, we feel there is a lot of commonality that can be addressed by a framework. It's intended for web based frontends that work on both desktop and mobile, but major parts of it would be applicable also to e.g. native mobile apps.
 
 This project is just in its starting phase and we welcome collaborators! We will start with the goal of creating character generators for Eon and Neotech, later maybe Kult. Hopefully it will by then be possible to let anyone create a character generator by defining their own schema and form.
 
